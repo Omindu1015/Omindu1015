@@ -19,9 +19,9 @@
 [![](https://visitcount.itsvg.in/api?id=omindu1015&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/omindu1015/omindu1015/output/snake.svg" alt="Snake animation" />
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omindu1015/Omindu1015/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omindu1015/Omindu1015/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Omindu1015/Omindu1015/output/pacman-contribution-graph.svg">
 </picture>
+
 
